@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.circularprogressbars.app-mergeDebugResources-33:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mikeb\\.gradle\\caches\\transforms-3\\5fa402963744a518ca491643e8d94962\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
